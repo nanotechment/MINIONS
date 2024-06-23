@@ -1,0 +1,488 @@
+.gallery,
+.gallery * {
+  box-sizing: border-box;
+}
+.gallery {
+  background: #feffdd;
+  height: 2737px;
+  position: relative;
+  overflow: hidden;
+}
+.group {
+  opacity: 0.20000000298023224;
+  height: auto;
+  position: absolute;
+  left: 871px;
+  top: 2659px;
+  overflow: visible;
+}
+.group2 {
+  opacity: 0.10000000149011612;
+  height: auto;
+  position: absolute;
+  left: 945px;
+  top: 1271px;
+  overflow: visible;
+}
+.group3 {
+  opacity: 0.10000000149011612;
+  height: auto;
+  position: absolute;
+  left: 278px;
+  top: 1294px;
+  overflow: visible;
+}
+.ellipse-4 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(16, 26, 36, 0.2);
+  border-width: 1px;
+  width: 960px;
+  height: 960px;
+  position: absolute;
+  left: -604px;
+  top: -353.84px;
+  transform-origin: 0 0;
+  transform: rotate(-17.405deg) scale(1, 1);
+}
+.ellipse-3 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(16, 26, 36, 0.2);
+  border-width: 1px;
+  width: 960px;
+  height: 960px;
+  position: absolute;
+  left: -538px;
+  top: -452px;
+}
+.group4 {
+  opacity: 0.20000000298023224;
+  height: auto;
+  position: absolute;
+  left: 1135px;
+  top: 209px;
+  overflow: visible;
+}
+.ellipse-5 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: rgba(16, 26, 36, 0.2);
+  border-width: 1px;
+  width: 960px;
+  height: 960px;
+  position: absolute;
+  left: -450px;
+  top: -428px;
+}
+.group5 {
+  opacity: 0.10000000149011612;
+  height: auto;
+  position: absolute;
+  left: 648px;
+  top: 1998px;
+  overflow: visible;
+}
+.group6 {
+  opacity: 0.20000000298023224;
+  height: auto;
+  position: absolute;
+  left: 643px;
+  top: 244px;
+  overflow: visible;
+}
+.group7 {
+  opacity: 0.10000000149011612;
+  height: auto;
+  position: absolute;
+  left: 1225.69px;
+  top: 1889px;
+  overflow: visible;
+}
+.group8 {
+  opacity: 0.20000000298023224;
+  height: auto;
+  position: absolute;
+  left: 1237px;
+  top: 719px;
+  overflow: visible;
+}
+.group9 {
+  opacity: 0.10000000149011612;
+  height: auto;
+  position: absolute;
+  left: 1107px;
+  top: 1925px;
+  overflow: visible;
+}
+.navigation-button {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4 {
+  border-radius: 0px;
+  width: 167px;
+  height: 64px;
+  position: absolute;
+  left: 1126px;
+  top: 63px;
+  overflow: visible;
+}
+.t-ngay {
+  color: #ffffff;
+  text-align: left;
+  font-family: "DavidLibre-Medium", sans-serif;
+  font-size: 20px;
+  line-height: 29px;
+  font-weight: 500;
+  position: absolute;
+  left: 1157px;
+  top: 79px;
+}
+.navigation {
+  position: absolute;
+  inset: 0;
+}
+.menu {
+  color: #101a24;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 29px;
+  font-weight: 400;
+  position: absolute;
+  left: 539px;
+  top: 82px;
+}
+.gallery2 {
+  color: #101a24;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 29px;
+  font-weight: 400;
+  position: absolute;
+  left: 723px;
+  top: 82px;
+}
+.gallery3 {
+  color: #101a24;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 96px;
+  line-height: 181px;
+  font-weight: 200;
+  position: absolute;
+  left: 513px;
+  top: 317px;
+  width: 437px;
+  height: 239px;
+}
+.about {
+  color: #101a24;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 29px;
+  font-weight: 400;
+  position: absolute;
+  left: 821px;
+  top: 82px;
+}
+.contact {
+  color: #101a24;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 29px;
+  font-weight: 400;
+  position: absolute;
+  left: 912px;
+  top: 82px;
+}
+.events {
+  color: #101a24;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 29px;
+  font-weight: 400;
+  position: absolute;
+  left: 627px;
+  top: 82px;
+}
+.black-logo-2 {
+  width: 370px;
+  height: 370px;
+  position: absolute;
+  left: 52px;
+  top: -77px;
+  object-fit: cover;
+}
+.image-4 {
+  opacity: 0.7200000286102295;
+  width: 467px;
+  height: 329px;
+  position: absolute;
+  left: -2px;
+  top: 570px;
+  object-fit: cover;
+}
+.image-5 {
+  opacity: 0.7200000286102295;
+  width: 468px;
+  height: 329px;
+  position: absolute;
+  left: 465px;
+  top: 570px;
+  object-fit: cover;
+}
+.image-6 {
+  width: 467px;
+  height: 312px;
+  position: absolute;
+  left: -234px;
+  top: 899px;
+  object-fit: cover;
+}
+.image-7 {
+  width: 468px;
+  height: 312px;
+  position: absolute;
+  left: 231px;
+  top: 899px;
+  object-fit: cover;
+}
+.image-8 {
+  opacity: 0.7200000286102295;
+  width: 467px;
+  height: 329px;
+  position: absolute;
+  left: 933px;
+  top: 570px;
+  object-fit: cover;
+}
+.image-9 {
+  width: 467px;
+  height: 312px;
+  position: absolute;
+  left: 699px;
+  top: 899px;
+  object-fit: cover;
+}
+.image-11 {
+  width: 412px;
+  height: 400px;
+  position: absolute;
+  left: 0px;
+  top: 1211px;
+  object-fit: cover;
+}
+.image-12 {
+  width: 500px;
+  height: 403px;
+  position: absolute;
+  left: 412px;
+  top: 1211px;
+  object-fit: cover;
+}
+.image-13 {
+  width: 487px;
+  height: 403px;
+  position: absolute;
+  left: 912px;
+  top: 1211px;
+  object-fit: cover;
+}
+.image-14 {
+  opacity: 0.75;
+  width: 500px;
+  height: 375px;
+  position: absolute;
+  left: 0px;
+  top: 1611px;
+  object-fit: cover;
+}
+.image-15 {
+  opacity: 0.75;
+  width: 500px;
+  height: 375px;
+  position: absolute;
+  left: 498px;
+  top: 1611px;
+  object-fit: cover;
+}
+.image-16 {
+  opacity: 0.3499999940395355;
+  width: 500px;
+  height: 352px;
+  position: absolute;
+  left: -117px;
+  top: 1986px;
+  object-fit: cover;
+}
+.image-17 {
+  opacity: 0.75;
+  width: 500px;
+  height: 375px;
+  position: absolute;
+  left: 998px;
+  top: 1623px;
+  object-fit: cover;
+}
+.image-18 {
+  opacity: 0.3499999940395355;
+  width: 530px;
+  height: 352px;
+  position: absolute;
+  left: 383px;
+  top: 1986px;
+  object-fit: cover;
+}
+.image-19 {
+  opacity: 0.3499999940395355;
+  width: 529px;
+  height: 352px;
+  position: absolute;
+  left: 913px;
+  top: 1986px;
+  object-fit: cover;
+}
+.icon-fish {
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  left: 600px;
+  top: 477px;
+  overflow: visible;
+}
+.vector {
+  width: 2.5%;
+  height: 0.76%;
+  position: absolute;
+  right: 50.93%;
+  left: 46.57%;
+  bottom: 81.45%;
+  top: 17.79%;
+  overflow: visible;
+}
+.vector2 {
+  width: 2.5%;
+  height: 0.76%;
+  position: absolute;
+  right: 47.79%;
+  left: 49.71%;
+  bottom: 81.45%;
+  top: 17.79%;
+  overflow: visible;
+}
+.icon-carrot {
+  width: 44px;
+  height: 44px;
+  position: absolute;
+  left: 1238px;
+  top: 73px;
+  overflow: visible;
+}
+.icon-fish2 {
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  left: 610px;
+  top: 2361px;
+  overflow: visible;
+}
+.vector3 {
+  width: 2.5%;
+  height: 0.76%;
+  position: absolute;
+  right: 50.22%;
+  left: 47.29%;
+  bottom: 12.61%;
+  top: 86.63%;
+  overflow: visible;
+}
+.vector4 {
+  width: 2.5%;
+  height: 0.76%;
+  position: absolute;
+  right: 47.07%;
+  left: 50.43%;
+  bottom: 12.61%;
+  top: 86.63%;
+  overflow: visible;
+}
+.facebook {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-2 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #101a24;
+  border-width: 1px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  left: 925px;
+  top: 2538px;
+}
+.image-1 {
+  width: 29px;
+  height: 29px;
+  position: absolute;
+  left: 933px;
+  top: 2546px;
+  object-fit: cover;
+}
+.ellipse-22 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #101a24;
+  border-width: 1px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  left: 1049px;
+  top: 2538px;
+}
+.ellipse-23 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #101a24;
+  border-width: 1px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+  left: 987px;
+  top: 2538px;
+}
+.icons-8-instagram-1 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 997px;
+  top: 2549px;
+  overflow: visible;
+}
+.image-2 {
+  width: 29px;
+  height: 29px;
+  position: absolute;
+  left: 1057px;
+  top: 2546px;
+  object-fit: cover;
+}
+.t-m-hi-u-th-m-v-ch-ng-t-i-t-i {
+  color: #101a24;
+  text-align: left;
+  font-family: "Inter-ExtraLight", sans-serif;
+  font-size: 32px;
+  line-height: 181px;
+  font-weight: 200;
+  position: absolute;
+  left: 318px;
+  top: 2465px;
+  width: 611px;
+  height: 142px;
+}
