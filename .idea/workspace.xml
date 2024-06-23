@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8b53d61-ac21-4c4c-b160-964848be30e2" name="Changes" comment="Git push">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitlab-ci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/black-logo-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/black-logo-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/foody-upload-api-foody-mobile-co-b-81-a-5-d-89-230227211258-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/group0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/header-with-image0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/icon-carrot0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/icon-carrot1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/icons-8-instagram-20.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/image-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/image-140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/image-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/image-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/image-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/image-60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/image-70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/image-90.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/rectangle-40.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/rectangle-41.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/z-5210089325554-e-77749243-ed-66-ec-2798-c-65-b-4395-e-5-eb-8-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minions/dishImage/z-5210089378370-3514-e-9-f-5-dd-6-e-08-a-8-e-0-fb-663-ee-77395-fc-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/aboutUs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/css/aboutUs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/css/gallery.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/css/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/css/order.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/avocado0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/black-logo-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/black-logo-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/black-logo-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/black-logo-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/group0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/group1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/group2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/group3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/group4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/group5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/group6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/group7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/group8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-carrot0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-fish0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-fish1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-arrow-left0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-check0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-check1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-check3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-check4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-check5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-check6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-check7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-check8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-creditcard0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-creditcard1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-creditcard2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-creditcard3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icon-outline-creditcard4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icons-8-instagram-10.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/icons-8-instagram-20.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-130.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-160.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-170.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-190.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/image-90.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/rectangle-40.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/unsplash-kc-a-c-3-f-3-fe0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_155.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_162.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_182.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_188.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_193.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_199.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_233.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4069.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4078.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4098.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4099.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4109.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4124.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4145.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4146.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4207.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4208.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4209.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4210.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4211.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4212.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4213.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4214.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4215.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4216.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4217.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4218.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4219.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4220.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4221.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4222.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4232.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v180_4239.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v188_1988.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v188_1992.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/v188_1999.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/vector0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/vector1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/vector2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/images/vector3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/menu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/front end/order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/MinionsApplications.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/autogen/AccountGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/controller/DishController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/dto/request/AccountDTOCreate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/dto/request/AccountDTOUpdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/dto/request/ChangePasswordRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/dto/request/DishDTORequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/dto/request/LoginDTORequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/dto/request/OTPRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/dto/response/AccountDTOResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/dto/response/AccountResponseAdmin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/dto/response/ApiResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/dto/response/DishDTOResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/dto/response/LoginDTOResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/dto/response/StatusEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/entity/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/entity/Dish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/entity/Roles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/entity/Token.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/entity/TokenType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/exception/EmailException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/exception/MinionsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/mapper/AccountMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/mapper/DishMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/model/CustomError.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/model/TokenPayload.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/repository/AccountRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/repository/DishRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/repository/RoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/repository/TokenRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/service/AccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/service/DishService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/service/EmailSenderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/service/ImageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/service/OTPCodeUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/service/RoleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/service/impl/AccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/service/impl/DishServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/service/impl/ImageServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/service/impl/RoleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/util/Constant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/util/JwtTokenUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/util/validator/DishValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/util/validator/ValidatorUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/webSecurityConfig/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/webSecurityConfig/JwtRequestFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/webSecurityConfig/OAuthLoginSuccessHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/minions/webSecurityConfig/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/MapOrder.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/black-logo-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/black-logo-41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/frame0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/icon-carrot0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/icons-8-instagram-20.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/image-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/image-30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/rectangle-120.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/rectangle-40.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/screenshot-2024-06-02-201218-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/screenshot-2024-06-02-201228-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/screenshot-2024-06-02-201252-20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/screenshot-2024-06-02-201303-10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/map/vars.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/minions/DemoApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="restaurant-web" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;nanotechment&quot;,
+      &quot;fullname&quot;: &quot;Đạt Nguyễn&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;https://gitlab.com/nanotechment/minions.git&quot;,
+    &quot;second&quot;: &quot;0309ac75-2cfd-44eb-86eb-fb7ece51ed14&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2h5WCMIzFU0M8VcfrQVlPbxMAoS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.About.html (1).executor": "Run",
+    "JavaScript Debug.About.html.executor": "Run",
+    "JavaScript Debug.Menu.html.executor": "Run",
+    "JavaScript Debug.aboutUs.html.executor": "Run",
+    "JavaScript Debug.gallery.html (1).executor": "Run",
+    "JavaScript Debug.gallery.html.executor": "Run",
+    "JavaScript Debug.homepage.html.executor": "Run",
+    "JavaScript Debug.index.html (1).executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.menu.html.executor": "Run",
+    "JavaScript Debug.order.html.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.DemoApplication.executor": "Run",
+    "Spring Boot.MinionsApplications.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/minions/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.minions.webSecurityConfig" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\minions\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\minions\src\front end" />
+      <recent name="C:\Users\Admin\IdeaProjects\minions\src\front end\css" />
+      <recent name="C:\Users\Admin\IdeaProjects\minions\src\front end\images" />
+      <recent name="C:\Users\Admin\IdeaProjects\minions\Minions\dishImage" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="gallery.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/minions/src/front end/gallery.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="gallery.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/minions/src/front end/gallery.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="gallery.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/minions/src/front end/gallery.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/minions/src/front end/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="menu.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/minions/src/front end/menu.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="order.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/minions/src/front end/order.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="minions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="minions" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinionsApplications" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="MovieTheaterProject" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.minions.MinionsApplications" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.order.html" />
+        <item itemvalue="JavaScript Debug.menu.html" />
+        <item itemvalue="JavaScript Debug.gallery.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8b53d61-ac21-4c4c-b160-964848be30e2" name="Changes" comment="" />
+      <created>1716884290475</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716884290475</updated>
+      <workItem from="1716884292321" duration="130000" />
+      <workItem from="1716888584733" duration="2278000" />
+      <workItem from="1716897768260" duration="2492000" />
+      <workItem from="1716975276951" duration="4928000" />
+      <workItem from="1717743340279" duration="10525000" />
+      <workItem from="1717753899560" duration="22000" />
+      <workItem from="1718260924503" duration="2297000" />
+      <workItem from="1719126295052" duration="5500000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add basic html and css">
+      <option name="closed" value="true" />
+      <created>1716889827085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716889827085</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add basic html and css">
+      <option name="closed" value="true" />
+      <created>1716889997880</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716889997880</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add basic html and css">
+      <option name="closed" value="true" />
+      <created>1716890104977</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716890104977</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add basic html and css">
+      <option name="closed" value="true" />
+      <created>1716897992372</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716897992372</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Dish into database">
+      <option name="closed" value="true" />
+      <created>1716977568062</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716977568062</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add Image Service and Exception">
+      <option name="closed" value="true" />
+      <created>1717743486025</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717743486025</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add response and mapper">
+      <option name="closed" value="true" />
+      <created>1717744303932</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717744303932</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fix Dish Service">
+      <option name="closed" value="true" />
+      <created>1717745018188</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717745018188</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update on Dish">
+      <option name="closed" value="true" />
+      <created>1717746024750</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717746024750</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update on Dish Controller and Api address">
+      <option name="closed" value="true" />
+      <created>1717747092812</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717747092812</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update on Account">
+      <option name="closed" value="true" />
+      <created>1717748257475</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1717748257475</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update on Account repository, etc">
+      <option name="closed" value="true" />
+      <created>1717749086904</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717749086904</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Update on Account service">
+      <option name="closed" value="true" />
+      <created>1717749473828</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1717749473828</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update on Account service implement">
+      <option name="closed" value="true" />
+      <created>1717752458153</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1717752458153</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update on Account service implement">
+      <option name="closed" value="true" />
+      <created>1717753914547</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1717753914547</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update on Account service implement">
+      <option name="closed" value="true" />
+      <created>1718262515604</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1718262515604</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Refactor page name">
+      <option name="closed" value="true" />
+      <created>1719126751071</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1719126751071</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Refactor page package">
+      <option name="closed" value="true" />
+      <created>1719129122836</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1719129122836</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Refactor page package">
+      <option name="closed" value="true" />
+      <created>1719129143071</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1719129143071</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Git push">
+      <option name="closed" value="true" />
+      <created>1719134009659</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1719134009659</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/restaurant-web" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/restaurant-web" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add basic html and css" />
+    <MESSAGE value="Add Dish into database" />
+    <MESSAGE value="Add Image Service and Exception" />
+    <MESSAGE value="Add response and mapper" />
+    <MESSAGE value="Fix Dish Service" />
+    <MESSAGE value="Update on Dish" />
+    <MESSAGE value="Update on Dish Controller and Api address" />
+    <MESSAGE value="Update on Account" />
+    <MESSAGE value="Update on Account repository, etc" />
+    <MESSAGE value="Update on Account service" />
+    <MESSAGE value="Update on Account service implement" />
+    <MESSAGE value="Refactor page name" />
+    <MESSAGE value="Refactor page package" />
+    <MESSAGE value="Git push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Git push" />
+  </component>
+</project>
